@@ -7,6 +7,6 @@ So, who am I?
 * Experience in creating commercial mods: 2 years
 
 My projects:
-Eternal Darkness - https://vk.com/eternaldarknessmc
-NectServer - https://nectserver.ru/
-RPMine - https://vk.com/rpmineserver
+* Eternal Darkness - https://vk.com/eternaldarknessmc
+* NectServer - https://nectserver.ru/
+* RPMine - https://vk.com/rpmineserver
