@@ -9,9 +9,9 @@ So, who am I?
 
 ## Projects 
 My projects:
-* Eternal Darkness - https://vk.com/eternaldarknessmc
-* NectServer - https://nectserver.ru/
-* RPMine - https://vk.com/rpmineserver
+* [Eternal Darkness](https://vk.com/eternaldarknessmc)
+* [NectServer](https://nectserver.ru/)
+* [RPMine](https://vk.com/rpmineserver)
 ## Info 
 Discord - TheLivan#8383. <br>
 Email - markjarkovkod@gmail.com
