@@ -13,5 +13,5 @@ My projects:
 * NectServer - https://nectserver.ru/
 * RPMine - https://vk.com/rpmineserver
 ## Info 
-Discord - TheLivan#8383.
+Discord - TheLivan#8383. <br>
 Email - markjarkovkod@gmail.com
