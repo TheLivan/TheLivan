@@ -10,7 +10,7 @@ So, who am I?
 ## Projects 
 My projects:
 * [Eternal Darkness](https://vk.com/eternaldarknessmc)
-* [NectServer](https://nectserver.ru/)
+* [NectHub](https://necthub.ru/)
 * [RPMine](https://vk.com/rpmineserver)
 ## Info 
 Discord - TheLivan#0001. <br>
