@@ -13,5 +13,5 @@ My projects:
 * [NectHub](https://necthub.ru/)
 * [RPMine](https://vk.com/rpmineserver)
 ## Links
-[SITE](https://github.com/TheLivan/THELIVAN-COMMERCIAL) <br>
+[SITE](https://thelivan.ru/) <br>
 [COMMERCIAL](https://github.com/TheLivan/THELIVAN-COMMERCIAL)
