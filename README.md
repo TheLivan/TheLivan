@@ -12,6 +12,6 @@ My projects:
 * [Eternal Darkness](https://vk.com/eternaldarknessmc)
 * [NectHub](https://necthub.ru/)
 * [RPMine](https://vk.com/rpmineserver)
-## Info 
+## Links
 [SITE](https://github.com/TheLivan/THELIVAN-COMMERCIAL) <br>
 [COMMERCIAL](https://github.com/TheLivan/THELIVAN-COMMERCIAL)
