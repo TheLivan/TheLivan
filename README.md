@@ -11,9 +11,10 @@ So, who am I?
 ## Projects 
 My projects:
 * [Eternal Darkness](https://vk.com/eternaldarknessmc)
-* [NectHub](https://necthub.ru/)
 * [RPMine](https://vk.com/rpmineserver)
-* [Arda LOTR](https://vk.com/ardalotr)
+* [Arda](https://vk.com/ardalotr)
+* [GrandGear](https://grandgear.top/)
+* [FrostLand](https://frostland.pro/)
 ## Links
 [SITE](https://thelivan.ru/) <br>
 [COMMERCIAL](https://github.com/TheLivan/THELIVAN-COMMERCIAL)
