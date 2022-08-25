@@ -4,7 +4,7 @@
 
 So, who am I?
 * Mark 18 y.o
-* A **java** developer
+* **Java** developer
 * Minecraft modder (FORGE 1.7.10, 1.12.2, 1.16.5)
 * Experience in creating commercial mods: 3 years
 
