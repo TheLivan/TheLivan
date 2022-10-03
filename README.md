@@ -12,7 +12,6 @@ So, who am I?
 My projects:
 * [Eternal Darkness](https://vk.com/eternaldarknessmc)
 * [RPMine](https://vk.com/rpmineserver)
-* [Arda](https://vk.com/ardalotr)
 * [GrandGear](https://grandgear.top/)
 * [FrostLand](https://frostland.pro/)
 ## Links
