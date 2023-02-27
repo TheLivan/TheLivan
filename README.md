@@ -11,8 +11,6 @@ So, who am I?
 ## Projects 
 My projects:
 * [Eternal Darkness](https://vk.com/eternaldarknessmc)
-* [RPMine](https://vk.com/rpmineserver)
-* [GrandGear](https://grandgear.top/)
 ## Links
 [SITE](https://thelivan.ru/) <br>
 [COMMERCIAL](https://github.com/TheLivan/THELIVAN-COMMERCIAL) <br>
