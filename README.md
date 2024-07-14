@@ -2,7 +2,6 @@
 ### You've landed on my GitHub profile!
 
 So, who am I?
-* Mark 19 y.o
 * **DevOps** Engineer
 * **Java** Developer
 * Minecraft modder (FORGE 1.7.10, 1.12.2, 1.16.5)
