@@ -18,9 +18,9 @@ So, who am I?
 
 ### Articles
 
-Article: Operation K. Looking for bugs in the IntelliJ IDEA code. [EN](https://pvs-studio.com/en/blog/posts/java/1089/)  [RU](https://pvs-studio.ru/ru/blog/posts/java/1089/)
-Article: Code of game engine written in Java: what does it hide? [EN](https://pvs-studio.com/en/blog/posts/java/1113/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1113/)
-Article: Bitwise operators in Java: unpacking ambiguities [EN](https://pvs-studio.com/en/blog/posts/java/1135/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1135/)
+Article: Operation K. Looking for bugs in the IntelliJ IDEA code. [EN](https://pvs-studio.com/en/blog/posts/java/1089/)  [RU](https://pvs-studio.ru/ru/blog/posts/java/1089/)&nbsp;
+Article: Code of game engine written in Java: what does it hide? [EN](https://pvs-studio.com/en/blog/posts/java/1113/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1113/)&nbsp;
+Article: Bitwise operators in Java: unpacking ambiguities [EN](https://pvs-studio.com/en/blog/posts/java/1135/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1135/)&nbsp;
 Article: How to develop code analyzer in 48 hours [EN](https://pvs-studio.com/en/blog/posts/java/1154/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1154/)
 
 ### Projects
