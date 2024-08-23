@@ -16,6 +16,13 @@ So, who am I?
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)&nbsp;
 
+### Articles
+
+Article: Operation K. Looking for bugs in the IntelliJ IDEA code. [EN](https://pvs-studio.com/en/blog/posts/java/1089/)  [RU](https://pvs-studio.ru/ru/blog/posts/java/1089/)
+Article: Code of game engine written in Java: what does it hide? [EN](https://pvs-studio.com/en/blog/posts/java/1113/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1113/)
+Article: Bitwise operators in Java: unpacking ambiguities [EN](https://pvs-studio.com/en/blog/posts/java/1135/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1135/)
+Article: How to develop code analyzer in 48 hours [EN](https://pvs-studio.com/en/blog/posts/java/1154/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1154/)
+
 ### Projects
 * [METROCRAFT 2036](http://metrocraft36.com/)
 * [Eternal Darkness](https://vk.com/eternaldarknessmc)
