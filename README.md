@@ -2,9 +2,9 @@
 ### You've landed on my GitHub profile!
 
 So, who am I?
-* **DevOps** Engineer
-* **Java** Developer
-* Minecraft modder (FORGE 1.7.10, 1.12.2, 1.16.5)
+* Middle **Java** Developer
+* Junior **DevOps** Engineer
+* Minecraft modder (Forge 1.7.10, 1.12.2, 1.16.5)
 * Experience in creating commercial mods: 4 years
 
 ### Technology
@@ -18,14 +18,14 @@ So, who am I?
 
 ### Articles
 
-* Article: Operation K. Looking for bugs in the IntelliJ IDEA code. [EN](https://pvs-studio.com/en/blog/posts/java/1089/)  [RU](https://pvs-studio.ru/ru/blog/posts/java/1089/)
-* Article: Code of game engine written in Java: what does it hide? [EN](https://pvs-studio.com/en/blog/posts/java/1113/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1113/)
-* Article: Bitwise operators in Java: unpacking ambiguities [EN](https://pvs-studio.com/en/blog/posts/java/1135/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1135/)
+* Article: Operation K. Looking for bugs in the IntelliJ IDEA code. [EN](https://pvs-studio.com/en/blog/posts/java/1089/)  [RU](https://pvs-studio.ru/ru/blog/posts/java/1089/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/780560/)
+* Article: Code of game engine written in Java: what does it hide? [EN](https://pvs-studio.com/en/blog/posts/java/1113/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1113/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/806665/)
+* Article: Bitwise operators in Java: unpacking ambiguities [EN](https://pvs-studio.com/en/blog/posts/java/1135/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1135/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/823488/)
 * Article: How to develop code analyzer in 48 hours [EN](https://pvs-studio.com/en/blog/posts/java/1154/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1154/)
+* Article: How to crash Minecraft with your mod [EN](https://pvs-studio.com/en/blog/posts/java/1219/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1219/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/880346/)
 
 ### Projects
-* [METROCRAFT 2036](http://metrocraft36.com/)
-* [Eternal Darkness](https://vk.com/eternaldarknessmc)
+[Eternal Darkness](https://vk.com/eternaldarknessmc)
 ### Work
 [PVS-Studio LLC](https://pvs-studio.com/)
 ### Links
