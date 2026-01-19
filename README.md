@@ -23,7 +23,7 @@ So, who am I?
 * Article: Bitwise operators in Java: unpacking ambiguities [EN](https://pvs-studio.com/en/blog/posts/java/1135/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1135/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/823488/)
 * Article: How to develop code analyzer in 48 hours [EN](https://pvs-studio.com/en/blog/posts/java/1154/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1154/)
 * Article: How to crash Minecraft with your mod [EN](https://pvs-studio.com/en/blog/posts/java/1219/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1219/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/880346/)
-
+* Article: How to avoid losing your Minecraft server due to dangerous mods [EN](https://pvs-studio.com/en/blog/posts/java/1334/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1334/)
 ### Projects
 [Eternal Darkness](https://vk.com/eternaldarknessmc)
 ### Work
