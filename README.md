@@ -18,12 +18,12 @@ So, who am I?
 
 ### Articles
 
-* Article: Operation K. Looking for bugs in the IntelliJ IDEA code. [EN](https://pvs-studio.com/en/blog/posts/java/1089/)  [RU](https://pvs-studio.ru/ru/blog/posts/java/1089/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/780560/)
-* Article: Code of game engine written in Java: what does it hide? [EN](https://pvs-studio.com/en/blog/posts/java/1113/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1113/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/806665/)
-* Article: Bitwise operators in Java: unpacking ambiguities [EN](https://pvs-studio.com/en/blog/posts/java/1135/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1135/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/823488/)
-* Article: How to develop code analyzer in 48 hours [EN](https://pvs-studio.com/en/blog/posts/java/1154/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1154/)
-* Article: How to crash Minecraft with your mod [EN](https://pvs-studio.com/en/blog/posts/java/1219/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1219/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/880346/)
-* Article: How to avoid losing your Minecraft server due to dangerous mods [EN](https://pvs-studio.com/en/blog/posts/java/1334/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1334/)
+* Operation K. Looking for bugs in the IntelliJ IDEA code. [EN](https://pvs-studio.com/en/blog/posts/java/1089/)  [RU](https://pvs-studio.ru/ru/blog/posts/java/1089/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/780560/)
+* Code of game engine written in Java: what does it hide? [EN](https://pvs-studio.com/en/blog/posts/java/1113/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1113/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/806665/)
+* Bitwise operators in Java: unpacking ambiguities [EN](https://pvs-studio.com/en/blog/posts/java/1135/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1135/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/823488/)
+* How to develop code analyzer in 48 hours [EN](https://pvs-studio.com/en/blog/posts/java/1154/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1154/)
+* How to crash Minecraft with your mod [EN](https://pvs-studio.com/en/blog/posts/java/1219/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1219/) [HABR](https://habr.com/ru/companies/pvs-studio/articles/880346/)
+* How to avoid losing your Minecraft server due to dangerous mods [EN](https://pvs-studio.com/en/blog/posts/java/1334/) [RU](https://pvs-studio.ru/ru/blog/posts/java/1334/)
 
 ### Projects
 [Eternal Darkness](https://vk.com/eternaldarknessmc)
